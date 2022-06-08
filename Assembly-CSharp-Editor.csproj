@@ -52,8 +52,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
-     <Compile Include="Assets\Opsive\Installer\UltimateCharacterController\Editor\CharacterControllerInstaller.cs" />
+     <Compile Include="Assets\ThirdParties\Opsive\Installer\UltimateCharacterController\Editor\CharacterControllerInstaller.cs" />
+     <Compile Include="Assets\Files\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity 2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

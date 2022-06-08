@@ -52,8 +52,19 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\Files\TutorialInfo\Scripts\Readme.cs" />
      <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
+     <Compile Include="Assets\Scripts\Character\CharacterStatBar.cs" />
+     <Compile Include="Assets\Scripts\Enum\Characters.cs" />
+     <Compile Include="Assets\Scripts\Character\Character.cs" />
+     <Compile Include="Assets\Scripts\Weapones\WeaponInformation.cs" />
+     <Compile Include="Assets\Scripts\Character\ProcessBar.cs" />
+     <Compile Include="Assets\Scripts\Enum\Weapones.cs" />
+     <Compile Include="Assets\Scripts\Character\CharacterInfo.cs" />
+     <Compile Include="Assets\Scripts\Weapones\Weapon.cs" />
+     <Compile Include="Assets\Scripts\Character\CharacterStats.cs" />
+     <Compile Include="Assets\Scripts\Character\CharacterStart.cs" />
+     <Compile Include="Assets\Scripts\Character\StatModifier.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity 2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
